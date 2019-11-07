@@ -1,0 +1,1 @@
+cmd /k "pyinstaller -D -F -w -n toINO ".\toINO.py" && exit"
