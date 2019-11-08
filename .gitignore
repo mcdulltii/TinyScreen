@@ -1,0 +1,16 @@
+
+*.pyc
+dist/toINO.exe
+build/toINO/xref-toINO.html
+build/toINO/warn-toINO.txt
+build/toINO/Tree-01.toc
+build/toINO/Tree-00.toc
+build/toINO/toINO.exe.manifest
+build/toINO/PYZ-00.toc
+build/toINO/PYZ-00.pyz
+build/toINO/PKG-00.toc
+build/toINO/PKG-00.pkg
+build/toINO/EXE-00.toc
+build/toINO/base_library.zip
+build/toINO/Analysis-00.toc
+toINO.spec
