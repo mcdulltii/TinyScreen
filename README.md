@@ -2,9 +2,9 @@
 
 # ![PNG to INO](https://github.com/mcdulltii/TinyScreen/blob/master/png/png.gif)
 
-# ![GIF to INO](https://github.com/mcdulltii/TinyScreen/blob/master/png/gif.png)
+# ![GIF to INO](https://github.com/mcdulltii/TinyScreen/blob/master/png/gif.gif)
 
-# ![MP4 to INO](https://github.com/mcdulltii/TinyScreen/blob/master/png/mp4.png)
+# ![MP4 to INO](https://github.com/mcdulltii/TinyScreen/blob/master/png/mp4.gif)
 
 ## Instructions
 
