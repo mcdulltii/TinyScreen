@@ -40,3 +40,4 @@ If on MacOS or Linux, modify the batch script to run on bash instead.
 #### Thanks
 
 Thanks to Julian for contributing to the generated INO code.
+[Files] (https://github.com/zhyuhan/tamagotchi) within ./resources are from Yu Han
